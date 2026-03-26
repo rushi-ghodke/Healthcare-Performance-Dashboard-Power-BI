@@ -1,4 +1,4 @@
-# 🏥 Healthcare Patient Wait Time & Satisfaction Dashboard
+# 🏥 Healthcare Performance Dashboard
 
 ## 📌 Project Overview
 This project is a Power BI dashboard built to analyze patient wait times, demographics, and satisfaction scores within a healthcare facility. It helps identify operational inefficiencies and improve patient experience using data-driven insights.
